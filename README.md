@@ -1,1 +1,1 @@
-# LA-wildfires-PurpleAir-calibration
+# LA-wildfire-PurpleAir-calibration
